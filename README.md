@@ -12,7 +12,7 @@ YOLO_V3: Fingertips Detector Depth Images
 
 *Run YOLO_V3 test.
 
-# Precision vs. Recall
+# Precision and Recall vs. Confidence Score
 
 ![Figure_4](https://user-images.githubusercontent.com/50027513/130703477-022e3edc-f2cd-412b-986a-2ac0ed45eb11.png)
 
