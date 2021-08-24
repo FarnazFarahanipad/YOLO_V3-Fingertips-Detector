@@ -11,3 +11,8 @@ YOLO_V3: Fingertips Detector Depth Images
 *Download the depth test images from NYU hand pose data set.
 
 *Run YOLO_V3 test.
+
+# Precision vs. Recall
+
+![Figure_4](https://user-images.githubusercontent.com/50027513/130703477-022e3edc-f2cd-412b-986a-2ac0ed45eb11.png)
+
