@@ -1,14 +1,14 @@
 # YOLO_V3-Fingertips-Detector
 YOLO_V3: Fingertips Detector Depth Images
 
-
+This repository contains all required files for YOLO-V3 fingertip detection on depth images of NYU hand pose dataset. 
 
 ![0](https://user-images.githubusercontent.com/50027513/130701662-74f82fce-3e69-48ed-a678-14cf546622c7.png)
 
 
-*Download the weights from [here](https://drive.google.com/file/d/1wLWsx6u3UgmOgQWfas9qrFTdyfdR3pRe/view?usp=sharing).
+*Download the weights from [here](https://drive.google.com/file/d/1wLWsx6u3UgmOgQWfas9qrFTdyfdR3pRe/view?usp=sharing) and put it under weights directory.
 
-*Download the depth test images from NYU hand pose data set.
+*Download the test depth images from NYU hand pose data set.
 
 *Run YOLO_V3 test.
 
